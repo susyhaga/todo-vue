@@ -1,6 +1,6 @@
 <script setup>
 
-const props= defineProps(['tarefasPendentes', 'taskOrTasks', 'colorTarefasPend'])
+const props= defineProps(['tarefasPendentes', 'taskOrTasks'])
 
 </script>
 
