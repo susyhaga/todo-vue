@@ -12,7 +12,7 @@
         </li>
     </ul>
     <div v-else class="mt-4">
-        <h2>No pending tasks at the moment</h2>
+        <h2>No pending task at the moment</h2>
     </div>
 </template>
 
